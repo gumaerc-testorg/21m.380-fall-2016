@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/df81b1fde2c09f5c3d962ae897caae2e_MIT21M_380F16_assn_sr2.pdf
+file: /media/courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/df81b1fde2c09f5c3d962ae897caae2e_MIT21M_380F16_assn_sr2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '21m.380 F16 -- Recording Session Report 2: Session Documentation'
 uid: df81b1fd-e2c0-9f5c-3d96-2ae897caae2e

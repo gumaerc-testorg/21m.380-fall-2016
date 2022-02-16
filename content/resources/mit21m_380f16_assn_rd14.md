@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/fce969cfb0f590fb74ba6794e69beb5b_MIT21M_380F16_assn_rd14.pdf
+file: /media/courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/fce969cfb0f590fb74ba6794e69beb5b_MIT21M_380F16_assn_rd14.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '21m.380 F16 -- Reading Assignment 14: Sound Quality & Critical Listening'
 uid: fce969cf-b0f5-90fb-74ba-6794e69beb5b

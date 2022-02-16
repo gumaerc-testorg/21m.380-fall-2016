@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/70fe8ffd4f76f0c32e74257d8eaf218e_MIT21M_380F16_assn_rd02.pdf
+file: /media/courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/70fe8ffd4f76f0c32e74257d8eaf218e_MIT21M_380F16_assn_rd02.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '21m.380 F16 -- Reading Assignment 2: Microphones'
 uid: 70fe8ffd-4f76-f0c3-2e74-257d8eaf218e

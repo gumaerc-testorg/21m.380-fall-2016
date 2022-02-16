@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/f382427142a730bb7d9f1b650741f596_MIT21M_380F16_assn_rd06.pdf
+file: /media/courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/f382427142a730bb7d9f1b650741f596_MIT21M_380F16_assn_rd06.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '21m.380 F16 -- Reading Assignment 6: Filters & EQs'
 uid: f3824271-42a7-30bb-7d9f-1b650741f596

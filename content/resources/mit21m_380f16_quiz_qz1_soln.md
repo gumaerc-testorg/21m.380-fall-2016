@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/4e2fb0b1498e5b3464e444cedd3bbf5d_MIT21M_380F16_quiz_qz1_soln.pdf
+file: /media/courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/4e2fb0b1498e5b3464e444cedd3bbf5d_MIT21M_380F16_quiz_qz1_soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Quizzes
+parent_type: CourseSection
 resourcetype: Document
 title: '21M.380 Fall 16 First Quiz (Q1): Physics & perception of sound, microphones
   (with solutions)'
