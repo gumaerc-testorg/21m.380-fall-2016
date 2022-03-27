@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: e87285be-bb92-079e-0e64-b3cf98e7da01
 resourcetype: Document
 title: '21m.380 f16 First Quiz (QZ1): Physics & perception of sound, microphones'
 uid: c705d32d-3a2e-9736-9db0-718657edbe27

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: 1f775d66-f81f-9507-4556-1647c46cc5a6
 resourcetype: Document
 title: '21m.380 F16 -- Production Analysis 1: In-Class Presentation'
 uid: 374d1679-6c18-b412-2569-aeab750d2ccd

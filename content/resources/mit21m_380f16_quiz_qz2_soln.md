@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: e87285be-bb92-079e-0e64-b3cf98e7da01
 resourcetype: Document
 title: '21M.380 F16 -- Second quiz (qz2): Editing, cables & patchbays, eqs, stereo
   recording, dynamics (with solutions)'

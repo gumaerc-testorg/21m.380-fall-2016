@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2ec4ba6a-bdfc-e929-0799-1f8fb1b9ada3
 resourcetype: Image
 title: 21M_380F16_playicon.png
 uid: 92347fff-9cf2-ccce-63e6-02b054fb5331

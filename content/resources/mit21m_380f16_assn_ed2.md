@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: 1f775d66-f81f-9507-4556-1647c46cc5a6
 resourcetype: Document
 title: '21m.380 F16 -- Sound Editing Exercise 2: Equalization'
 uid: 4d0f4f6a-4fb2-7d88-caad-57e749f0bab4

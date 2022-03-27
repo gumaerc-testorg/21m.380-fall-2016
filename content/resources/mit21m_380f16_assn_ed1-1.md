@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: 1f775d66-f81f-9507-4556-1647c46cc5a6
 resourcetype: Other
 title: MIT21M_380F16_assn_ed1.zip
 uid: 1932d08f-eddc-249d-ea8f-80efabfbdf85

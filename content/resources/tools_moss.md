@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: a45da55d-e4f9-4254-f91b-ad03c52ebc22
 resourcetype: Image
 title: tools_moss.jpg
 uid: 2df32bbf-14e0-e4d5-43e3-a60025cf8145

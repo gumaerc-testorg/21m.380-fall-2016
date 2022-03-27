@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 792190d4-a984-1502-1dcd-e895929e607e
 resourcetype: Document
 title: 21M.380 F16 -- Survey (sv)
 uid: 8ee263dc-0448-8809-c489-ef7a0c189d01

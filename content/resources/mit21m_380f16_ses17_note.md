@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2ec4ba6a-bdfc-e929-0799-1f8fb1b9ada3
 resourcetype: Document
 title: '21m.380 F16 -- Session 17: Recording Session 1'
 uid: d8b04ec7-f1cb-46d0-6684-d6ed87d608a4

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: e87285be-bb92-079e-0e64-b3cf98e7da01
 resourcetype: Document
 title: '21m.380 f16 Third Quiz (QZ3): Digital audio, mixing consoles & strategies,
   recording sessions, room acoustics and reverberation'

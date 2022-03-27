@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2ec4ba6a-bdfc-e929-0799-1f8fb1b9ada3
 resourcetype: Document
 title: '21m.380 F16 -- Session 2: Physics of Sound'
 uid: ae4e07f3-da3b-04c4-6a93-486b9ac9d6d6

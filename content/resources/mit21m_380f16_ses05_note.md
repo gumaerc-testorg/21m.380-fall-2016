@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2ec4ba6a-bdfc-e929-0799-1f8fb1b9ada3
 resourcetype: Document
 title: '21m.380 F16 -- Session 5: Workshop: Moss Intro & Mic Handling'
 uid: 0a1e9353-e358-1fbe-5225-bae6e9628b64

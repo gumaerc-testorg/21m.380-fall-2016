@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: 1f775d66-f81f-9507-4556-1647c46cc5a6
 resourcetype: Document
 title: '21m.380 F16 -- Written Assignment 1: Edison''s List'
 uid: e9dc1a4b-f730-875b-e483-9dc8aa44937c

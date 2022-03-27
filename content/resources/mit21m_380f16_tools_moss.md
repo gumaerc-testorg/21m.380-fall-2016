@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: a45da55d-e4f9-4254-f91b-ad03c52ebc22
 resourcetype: Document
 title: Schematic diagrams of Mobile Sound System (MOSS)
 uid: 00bfcd47-cb9b-e9b1-45cc-5d4e68be71b7

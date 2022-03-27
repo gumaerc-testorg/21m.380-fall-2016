@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: 1f775d66-f81f-9507-4556-1647c46cc5a6
 resourcetype: Document
 title: '21m.380 F16 -- Reading Assignment 15: Rupert Neve'
 uid: ca18b480-e63a-78fb-4b76-6962a28220f0

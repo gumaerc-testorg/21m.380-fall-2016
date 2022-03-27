@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: 1f775d66-f81f-9507-4556-1647c46cc5a6
 resourcetype: Document
 title: '21m.380 F16 -- Recording Session Report 2: Session Documentation'
 uid: df81b1fd-e2c0-9f5c-3d96-2ae897caae2e
