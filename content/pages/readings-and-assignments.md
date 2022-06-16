@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page lists the individual readings and homework assignments due
+  for each class session.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Assignments
@@ -40,7 +42,7 @@ Readings and Assignments Due
 The art of sound recording
 {{< tdclose >}}
 {{< tdopen >}}
-[RD00: The Art of Sound Recording (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd00)
+{{% resource_link 7a6cae7a-d421-982b-d5fb-2109a707e5f1 "RD00: The Art of Sound Recording (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,9 +56,9 @@ Physics of sound
 {{< tdopen >}}
 
 
-[WR1: Edison's List (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_wr1)
+{{% resource_link e9dc1a4b-f730-875b-e483-9dc8aa44937c "WR1: Edison's List (PDF)" %}}
 
-[RD01: Physics of Sound (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd01)
+{{% resource_link a218102d-dc18-439c-89b9-08efb5d28319 "RD01: Physics of Sound (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -72,7 +74,7 @@ Microphones
 {{< tdopen >}}
 
 
-[RD02: Microphones (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd02)
+{{% resource_link 70fe8ffd-4f76-f0c3-2e74-257d8eaf218e "RD02: Microphones (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -88,9 +90,9 @@ Perception of sound
 {{< tdopen >}}
 
 
-[PA1: In-Class Presentation (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_pa1)
+{{% resource_link 374d1679-6c18-b412-2569-aeab750d2ccd "PA1: In-Class Presentation (PDF)" %}}
 
-[RD03: Perception of Sound (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd03)
+{{% resource_link 7fd36b46-5ac4-785f-317b-f8b5d5f5194d "RD03: Perception of Sound (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +108,7 @@ Workshop: MOSS intro and mic handling
 {{< tdopen >}}
 
 
-[RD04: Interview with Silvia Massy Shivy (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd04)
+{{% resource_link 878fd180-6e98-f2e9-9510-f30dde527a99 "RD04: Interview with Silvia Massy Shivy (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -138,7 +140,7 @@ Workshop: Cables, preamps, patchbays
 {{< tdopen >}}
 
 
-[RD05: Cables, Connections, and Patchbays (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd05)
+{{% resource_link 09d225fc-0f49-ac58-1d30-3117010797f0 "RD05: Cables, Connections, and Patchbays (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -154,9 +156,9 @@ Filters and EQs
 {{< tdopen >}}
 
 
-[ED1: Drum Loop (ZIP)]({{< baseurl >}}/resources/mit21m_380f16_assn_ed1-1) (contains 1 .pdf file, 1 .txt file, and 29 .wav files)
+{{% resource_link 1932d08f-eddc-249d-ea8f-80efabfbdf85 "ED1: Drum Loop (ZIP)" %}} (contains 1 .pdf file, 1 .txt file, and 29 .wav files)
 
-[RD06: Filters & EQs (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd06)
+{{% resource_link f3824271-42a7-30bb-7d9f-1b650741f596 "RD06: Filters & EQs (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -172,7 +174,7 @@ Stereo recording techniques
 {{< tdopen >}}
 
 
-[RD07: Stereo Recording Techniques (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd07)
+{{% resource_link cabdf18a-497e-b64d-403b-43ca955ca63e "RD07: Stereo Recording Techniques (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -188,9 +190,9 @@ Dynamics and compression
 {{< tdopen >}}
 
 
-[ED2: Equalization (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_ed2)
+{{% resource_link 4d0f4f6a-4fb2-7d88-caad-57e749f0bab4 "ED2: Equalization (PDF)" %}}
 
-[RD08: Dynamics & Compression (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd08)
+{{% resource_link 1c27730f-410c-4327-37e8-c919b035865b "RD08: Dynamics & Compression (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -206,7 +208,7 @@ Workshop: Stereo recording practice
 {{< tdopen >}}
 
 
-[RD09: Digital Audio (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd09)
+{{% resource_link 76a5a4db-8b59-338c-ef44-3ca36858eef1 "RD09: Digital Audio (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -222,7 +224,7 @@ Workshop: Headphone monitoring
 {{< tdopen >}}
 
 
-[ED3: Dynamic Range Processing (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_ed3)
+{{% resource_link daa62e17-1028-d6c8-2a81-90c8b1eab267 "ED3: Dynamic Range Processing (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -254,7 +256,7 @@ Mixing consoles
 {{< tdopen >}}
 
 
-[RD10: The Art of Mixing (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd10)
+{{% resource_link c5a5cd1f-7ac9-68af-ef38-b21190d58f57 "RD10: The Art of Mixing (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -270,9 +272,9 @@ Student presentations: Recording session plans
 {{< tdopen >}}
 
 
-[SR1: Session Plan (Group Report & Presentation) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_sr1)
+{{% resource_link 636c7433-9e62-e6ab-7a44-444997278dfa "SR1: Session Plan (Group Report & Presentation) (PDF)" %}}
 
-[RD11: Sound Recording Techniques (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd11)
+{{% resource_link 2a178b86-9866-b48e-06ba-85e0ba697426 "RD11: Sound Recording Techniques (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -288,7 +290,7 @@ Mixing strategies
 {{< tdopen >}}
 
 
-[ED4: Preparing Stems (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_ed4)
+{{% resource_link 5f6100ac-40e0-c6b9-8f15-0e787b8a13a4 "ED4: Preparing Stems (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -304,7 +306,7 @@ Recording session 1 (classical piano solo)
 {{< tdopen >}}
 
 
-[RD12: Room Acoustics & Reverberation (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd12)
+{{% resource_link 24b7f375-6991-4805-c1c5-3a79f066691f "RD12: Room Acoustics & Reverberation (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -320,7 +322,7 @@ Room acoustics and reverberation
 {{< tdopen >}}
 
 
-[MX1: Mixdown of Stems (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_mx1)
+{{% resource_link 3ad30231-594b-dddc-6d27-07c910e3b3f8 "MX1: Mixdown of Stems (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -336,7 +338,7 @@ Recording session 2 (R&B group)
 {{< tdopen >}}
 
 
-[RD13: Nature Builds No Telephones (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd13)
+{{% resource_link 1afe1321-fd4a-d7d1-ed2c-59796746aa53 "RD13: Nature Builds No Telephones (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -352,7 +354,7 @@ Recording session 3 (progressive metal group)
 {{< tdopen >}}
 
 
-[MX2: Mixdown with Reverb (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_mx2)
+{{% resource_link 13b81525-12af-1c75-b68c-f95f7cdcbe4d "MX2: Mixdown with Reverb (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -382,7 +384,7 @@ _Quiz 3—no assignments due_
 Sound quality and critical listening
 {{< tdclose >}}
 {{< tdopen >}}
-[RD14: Sound Quality & Critical Listening (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd14)
+{{% resource_link fce969cf-b0f5-90fb-74ba-6794e69beb5b "RD14: Sound Quality & Critical Listening (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -396,7 +398,7 @@ Recording session 4 (classical piano trio)
 {{< tdopen >}}
 
 
-[WR2: Music Technology in 50 Years (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_wr2)
+{{% resource_link ec22b98a-192e-da75-8272-b4ace571b3b9 "WR2: Music Technology in 50 Years (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -412,7 +414,7 @@ Recording session 5 (classical violin & piano duet)
 {{< tdopen >}}
 
 
-[PA2: Production Bloopers (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_pa2)
+{{% resource_link 782ea583-8dd5-fb75-1d0e-40a4181aa992 "PA2: Production Bloopers (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -426,7 +428,7 @@ Recording session 5 (classical violin & piano duet)
 Mastering techniques
 {{< tdclose >}}
 {{< tdopen >}}
-[RD15: Rupert Neve (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_rd15)
+{{% resource_link ca18b480-e63a-78fb-4b76-6962a28220f0 "RD15: Rupert Neve (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -438,7 +440,7 @@ Mastering techniques
 Workshop: Command-line sound editing
 {{< tdclose >}}
 {{< tdopen >}}
-[SR2: Session Documentation (Group Report) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_sr2)
+{{% resource_link df81b1fd-e2c0-9f5c-3d96-2ae897caae2e "SR2: Session Documentation (Group Report) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -462,7 +464,7 @@ Guest speaker: Al Kooper
 Workshop: 5.1 surround sound
 {{< tdclose >}}
 {{< tdopen >}}
-[MX3: Session Mix and Master (PDF)]({{< baseurl >}}/resources/mit21m_380f16_assn_mx3)
+{{% resource_link 34c70eb7-bcb8-d01b-61a0-fe54cffe78a5 "MX3: Session Mix and Master (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

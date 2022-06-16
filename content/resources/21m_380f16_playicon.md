@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/92347fff9cf2ccce63e602b054fb5331_21M_380F16_playicon.png
+file: /courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/92347fff9cf2ccce63e602b054fb5331_21M_380F16_playicon.png
 file_type: image/png
 image_metadata:
   caption: ''

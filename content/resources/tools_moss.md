@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The MObile Sound System (MOSS). '
-file: /media/courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/2df32bbf14e0e4d543e3a60025cf8145_tools_moss.jpg
+file: /courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/2df32bbf14e0e4d543e3a60025cf8145_tools_moss.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The MObile Sound System (MOSS)
@@ -19,3 +19,5 @@ resourcetype: Image
 title: tools_moss.jpg
 uid: 2df32bbf-14e0-e4d5-43e3-a60025cf8145
 ---
+The MObile Sound System (MOSS). 
+
