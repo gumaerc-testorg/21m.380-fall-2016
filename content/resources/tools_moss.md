@@ -11,6 +11,7 @@ image_metadata:
     cables, etc.
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Tools
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: tools_moss.jpg
 uid: 2df32bbf-14e0-e4d5-43e3-a60025cf8145
 ---
 The MObile Sound System (MOSS). 
-

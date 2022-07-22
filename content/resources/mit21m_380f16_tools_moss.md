@@ -5,6 +5,7 @@ file: /courses/21m-380-music-and-technology-recording-techniques-and-audio-produ
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Schematic diagrams of Mobile Sound System (MOSS)
 uid: 00bfcd47-cb9b-e9b1-45cc-5d4e68be71b7
 ---
 This resource contains information about schematics of MOSS.
-

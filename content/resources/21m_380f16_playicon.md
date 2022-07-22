@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Play button icon, a right-pointing triangle within a circle
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection

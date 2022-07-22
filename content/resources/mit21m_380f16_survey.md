@@ -4,6 +4,7 @@ description: ''
 file: /courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/8ee263dc04488809c489ef7a0c189d01_MIT21M_380F16_survey.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
