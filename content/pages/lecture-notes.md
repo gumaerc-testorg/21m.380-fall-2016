@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page provides the complete lecture slides, audio examples, and summary
+  class notes.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 2ec4ba6a-bdfc-e929-0799-1f8fb1b9ada3
 ---
@@ -11,13 +16,13 @@ Lecture Slides
 
 The complete set of lecture slides is given here compiled in a single file. Within the file, the start of each lecture is bookmarked for ease of direct access. Your PDF viewer should open with the bookmarks index visible, alongside the slides window.
 
-_**Important**_: The slides and notes include links to a set of audio examples, provided below in a ZIP file. For these linked examples to work correctly, you must download and save the lecture slides and class notes PDFs, then download and unpack the audio examples ZIP and move its /examples/ folder in the same directory as the slides and notes. This is detailed in the [Instructions to run audio examples (PDF)]({{< baseurl >}}/resources/mit21m_380f16_lec_instructions).
+_**Important**_: The slides and notes include links to a set of audio examples, provided below in a ZIP file. For these linked examples to work correctly, you must download and save the lecture slides and class notes PDFs, then download and unpack the audio examples ZIP and move its /examples/ folder in the same directory as the slides and notes. This is detailed in the {{% resource_link 1cced739-e24f-cfb7-c900-73abec9ed3ee "Instructions to run audio examples (PDF)" %}}.
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Complete lecture slides (PDF - 58MB)](/ans7870/21m/21m.380/F16/MIT21M_380F16_lec_slides.pdf)
+[Complete lecture slides (PDF - 58MB)](/ans7870/21m/21m.380/F16/MIT21M_380F16_lec_slides.pdf)
 
 [Audio examples (ZIP - 5MB)](/ans7870/21m/21m.380/F16/MIT21M_380F16_examples.zip) (contains 1 .txt file and 19 .wav files)
 
-While viewing the slides on your screen, clicking on any "play button" icon ![Play button icon, a right-pointing triangle within a circle.]({{< resource_file 92347fff-9cf2-ccce-63e6-02b054fb5331 >}}) will launch the associated example. Note that many play buttons link out to online audio and visualization resources outside of OCW.
+While viewing the slides on your screen, clicking on any "play button" icon {{< resource 92347fff-9cf2-ccce-63e6-02b054fb5331 >}} will launch the associated example. Note that many play buttons link out to online audio and visualization resources outside of OCW.
 
 Class Notes
 -----------
@@ -40,7 +45,7 @@ Class Notes
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[The art of sound recording (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses01_note)
+{{% resource_link c1a6d37a-6743-bcf4-575f-5840c36d0b42 "The art of sound recording (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +54,7 @@ Class Notes
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Physics of sound (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses02_note)
+{{% resource_link ae4e07f3-da3b-04c4-6a93-486b9ac9d6d6 "Physics of sound (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ Class Notes
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Microphones (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses03_note)
+{{% resource_link ce40c5f6-7ece-b344-faa0-6d66c1b9bf99 "Microphones (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +72,7 @@ Class Notes
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Perception of sound (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses04_note)
+{{% resource_link 1acd46fe-721d-5770-3b43-40e3d9e4874a "Perception of sound (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ Class Notes
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Workshop: MOSS intro and mic handling (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses05_note)
+{{% resource_link 0a1e9353-e358-1fbe-5225-bae6e9628b64 "Workshop: MOSS intro and mic handling (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +90,7 @@ Class Notes
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Basic sound editing techniques (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses06_note)
+{{% resource_link c415fb54-1b29-7efb-23ba-14eb65d06106 "Basic sound editing techniques (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Class Notes
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Workshop: Cables, preamps, patchbays (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses07_note)
+{{% resource_link 19a310ed-d296-56b2-cd19-f3cfa3504c8d "Workshop: Cables, preamps, patchbays (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +108,7 @@ Class Notes
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Filters and EQs (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses08_note)
+{{% resource_link 3d1ad46c-7099-0bc8-4a84-a9721aeb9356 "Filters and EQs (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ Class Notes
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Stereo recording techniques (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses09_note)
+{{% resource_link 0fb15661-f58b-7bbc-fd4e-f633a7e337bd "Stereo recording techniques (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +126,7 @@ Class Notes
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Dynamics and compression (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses10_note)
+{{% resource_link afa18ae3-9f0a-f1df-e67e-a31c6d810105 "Dynamics and compression (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +135,7 @@ Class Notes
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Workshop: Stereo recording practice (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses11_note)
+{{% resource_link 48006f98-db75-64e7-5ebd-58f61878162b "Workshop: Stereo recording practice (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +144,7 @@ Class Notes
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Workshop: Headphone monitoring (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses12_note)
+{{% resource_link ad1df172-385e-aa54-4c56-2269d74ab215 "Workshop: Headphone monitoring (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +153,7 @@ Class Notes
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Digital audio (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses13_note)
+{{% resource_link 804de726-f5db-53dd-a0d7-20c694eb07db "Digital audio (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +162,7 @@ Class Notes
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Mixing consoles (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses14_note)
+{{% resource_link 002bea72-7a5d-61df-507c-f92b6b72098a "Mixing consoles (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +171,7 @@ Class Notes
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Student presentations: Recording session plans (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses15_note) 
+{{% resource_link d5edd707-1aff-0f7f-f7b9-ec266270c793 "Student presentations: Recording session plans (PDF)" %}} 
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +180,7 @@ Class Notes
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Mixing strategies (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses16_note)
+{{% resource_link adc0047e-cee9-4b9d-6355-851e6bb5df4c "Mixing strategies (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +189,7 @@ Class Notes
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Recording session 1 (classical piano solo) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses17_note)
+{{% resource_link d8b04ec7-f1cb-46d0-6684-d6ed87d608a4 "Recording session 1 (classical piano solo) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +198,7 @@ Class Notes
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Room acoustics and reverberation (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses18_note)
+{{% resource_link d315c75e-fb01-cb76-ca89-7958570bab87 "Room acoustics and reverberation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +207,7 @@ Class Notes
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Recording session 2 (R&B group: Love and a Sandwich) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses19_note)
+{{% resource_link e2d9c7ac-5129-3fda-e2ba-607829288325 "Recording session 2 (R&B group: Love and a Sandwich) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +216,7 @@ Class Notes
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Recording session 3 (progressive metal group: Psience Phiction) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses20_note)
+{{% resource_link 740e237b-8f5d-bed0-da00-56f6d792e41a "Recording session 3 (progressive metal group: Psience Phiction) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +225,7 @@ Class Notes
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Review, preview (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses21_note)
+{{% resource_link 247a727f-60b4-2a7d-73cd-fc477b8d0cfd "Review, preview (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +234,7 @@ Class Notes
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Sound quality and critical listening (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses22_note)
+{{% resource_link 86350ddc-4b19-6dec-5c4e-b4513fcd87b8 "Sound quality and critical listening (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +243,7 @@ Class Notes
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Recording session 4 (classical piano trio — violin, cello, piano) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses23_note)
+{{% resource_link 246d55c1-f4e8-e78a-d691-5ad3562d9d9b "Recording session 4 (classical piano trio — violin, cello, piano) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +252,7 @@ Class Notes
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Recording session 5 (classical violin & piano duet) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses24_note)
+{{% resource_link 9f0db762-a41e-a177-f215-1686001b4b09 "Recording session 5 (classical violin & piano duet) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +261,7 @@ Class Notes
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[Mastering techniques (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses25_note)
+{{% resource_link c37401b0-efe6-898d-42b4-f1345b4b455f "Mastering techniques (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +270,7 @@ Class Notes
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Workshop: Command-line sound editing (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses26_note), [SoX files (ZIP - 2MB)]({{< baseurl >}}/resources/mit21m_380f16_sox_audio_files) (contains 1 .txt file and 19 .wav files)
+{{% resource_link 03e446a7-ab9e-7ece-806b-38ee158bb76e "Workshop: Command-line sound editing (PDF)" %}}, {{% resource_link 59291bf6-a164-2f5f-ef7d-8f70c4e5ab24 "SoX files (ZIP - 2MB)" %}} (contains 1 .txt file and 19 .wav files)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +279,7 @@ Class Notes
 27
 {{< tdclose >}}
 {{< tdopen >}}
-[Guest speaker: Al Kooper (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses27_note)
+{{% resource_link cf4da1ff-c5a8-652d-13e3-a9871da7eec9 "Guest speaker: Al Kooper (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +288,7 @@ Class Notes
 28
 {{< tdclose >}}
 {{< tdopen >}}
-[Workshop: 5.1 surround sound (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses28_note)
+{{% resource_link bd0ce052-b26a-fc47-aaa9-6b7e5a6a2e40 "Workshop: 5.1 surround sound (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

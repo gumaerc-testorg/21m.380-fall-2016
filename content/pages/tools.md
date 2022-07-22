@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page summarizes the required audio hardware and software which students
+  will need to complete the course assignments.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: a45da55d-e4f9-4254-f91b-ad03c52ebc22
 ---
@@ -394,13 +399,13 @@ If you already run one of the other software packages listed in table 2, I am wi
 {{< anchor "MOSS" >}}{{< /anchor >}}MObile Sound System (MOSS)
 --------------------------------------------------------------
 
- ![tools_moss.jpg]({{< resource_file 2df32bbf-14e0-e4d5-43e3-a60025cf8145 >}})
+ {{< resource 2df32bbf-14e0-e4d5-43e3-a60025cf8145 >}}
 
 The MObile Sound System (MOSS).
 
 In-class activites and recording workshops use the MObile Sound System (MOSS). MOSS is essentially a professional recording studio without a room. It consists of two road cases on casters: one is for storing a laptop computer, audio equipment, and the patching interface, and the other is for storing microphones, headphones, microphone stands, speaker stands, power strips, cables, and a snake.
 
-[Schematics of MOSS (PDF)]({{< baseurl >}}/resources/mit21m_380f16_tools_moss) (Courtesy of Christopher Ariza. Used with permission.)
+{{% resource_link 00bfcd47-cb9b-e9b1-45cc-5d4e68be71b7 "Schematics of MOSS (PDF)" %}} (Courtesy of Christopher Ariza. Used with permission.)
 
 This system can record, mix, or process 16 analog inputs and provide 16 analog outputs, all at 24 bit/96 kHz. The laptop currently runs Logic Studio®, Peak, and Max/MSP. 16 channels of high quality preamps are provided (8 channels of True Precision, 4 channels of full channel-strip functionality with EQ and compression, and two different types of high-quality two-channel preamps). The system can record up to 16 channels to the computer, and simultaneously or independently record 2 channels to a flash-based recorder. For overdubs, remote recording, or sending click tracks, 8-channel monitor mixes can be sent over CAT-5 cable to any of four personal mixing units. All I/O is available via front-mounted patch bays and panels, making custom setups as fast and convenient as possible.
 

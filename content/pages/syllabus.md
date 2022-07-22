@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page summarizes course goals, policies, and required coursework,
+  and includes a calendar of topics for each meeting and coursework due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 792190d4-a984-1502-1dcd-e895929e607e
 ---
@@ -31,17 +35,17 @@ There are no specific prerequisites for this course.
 Course Entrance Questionnaire
 -----------------------------
 
-Because the course has a cap on maximum enrollment, students are selected for admission into the course based on a [survey (PDF)]({{< baseurl >}}/resources/mit21m_380f16_survey).
+Because the course has a cap on maximum enrollment, students are selected for admission into the course based on a {{% resource_link 8ee263dc-0448-8809-c489-ef7a0c189d01 "survey (PDF)" %}}.
 
 Recording Equipment at MIT
 --------------------------
 
-Our main vehicle for getting hands-on recording experience will be Music and Theater Art's [MObile Sound System (MOSS)]({{< baseurl >}}/pages/tools#MOSS) designed by Chris Ariza, which later in the course we will use to record various bands and ensembles in Killian Hall. While the MOSS will be available only for in-class use, you can borrow one of five Zoom H4n portable audio recorders from the Lewis Music Library's front desk overnight for smaller recording jobs.
+Our main vehicle for getting hands-on recording experience will be Music and Theater Art's {{% resource_link a45da55d-e4f9-4254-f91b-ad03c52ebc22 "MObile Sound System (MOSS)" "#MOSS" %}} designed by Chris Ariza, which later in the course we will use to record various bands and ensembles in Killian Hall. While the MOSS will be available only for in-class use, you can borrow one of five Zoom H4n portable audio recorders from the Lewis Music Library's front desk overnight for smaller recording jobs.
 
 Required Hardware and Software
 ------------------------------
 
-You must have reliable access to additional audio editing hardware and software to work on your assignments. See the [Tools]({{< baseurl >}}/pages/tools) page for details. Please ensure you have this access by Session 4, including testing the installation of all software packages.
+You must have reliable access to additional audio editing hardware and software to work on your assignments. See the {{% resource_link a45da55d-e4f9-4254-f91b-ad03c52ebc22 "Tools" %}} page for details. Please ensure you have this access by Session 4, including testing the installation of all software packages.
 
 Recommended Textbooks
 ---------------------
