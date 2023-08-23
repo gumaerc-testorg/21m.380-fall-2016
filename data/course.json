@@ -44,8 +44,10 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Exams with Solutions"
+    "Exams with Solutions",
+    "Demonstration Audio"
   ],
-  "site_uid": "e076e2e1-dcdb-4cae-bf35-84328d5d6d4f",
+  "site_uid": "cdc4adda-e92f-429b-8e57-308960f9563c",
+  "site_short_id": "21m.380-fall-2016",
   "title": "Course Metadata"
 }
