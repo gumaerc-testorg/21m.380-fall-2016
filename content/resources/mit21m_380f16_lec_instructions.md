@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/1cced739e24fcfb7c90073abec9ed3ee_MIT21M_380F16_lec_instructions.pdf
+file_size: 83299
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
