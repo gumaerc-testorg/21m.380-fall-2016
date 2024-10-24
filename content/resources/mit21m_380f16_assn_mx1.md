@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/3ad30231594bdddc6d2707c910e3b3f8_MIT21M_380F16_assn_mx1.pdf
+file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/3ad30231594bdddc6d2707c910e3b3f8_MIT21M_380F16_assn_mx1.pdf
 file_size: 127919
 file_type: application/pdf
 learning_resource_types: []
