@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about schematics of MOSS.
-file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/00bfcd47cb9be9b145cc5d4e68be71b7_MIT21M_380F16_tools_moss.pdf
+file: /courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/00bfcd47cb9be9b145cc5d4e68be71b7_MIT21M_380F16_tools_moss.pdf
 file_size: 122959
 file_type: application/pdf
 learning_resource_types:
