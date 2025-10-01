@@ -23,7 +23,7 @@ It is strongly recommended that you invest in a pair of studio headphones. If yo
 
 This video explains the differences between open- and closed-back headphones in detail:
 
-*   Shure. "[The Differences Between Open-Back and Closed-Back Headphones](http://www.youtube.com/watch?v=oqsyaHlZ6ro)." YouTube. April 20, 2012.
+*   Shure. "{{% resource_link "5b41b589-b279-40e6-9b14-90f89c4d13c6" "The Differences Between Open-Back and Closed-Back Headphones" %}}." YouTube. April 20, 2012.
 
 Don't even think about using in-ear phones (like those that come with your smartphone), mixing on which is the acoustic equivalent of blindfolded graphic design.
 
@@ -241,7 +241,7 @@ Throughout the semester, you will regularly demonstrate the results of your work
 Digital Audio Workstation (DAW) Software Package
 ------------------------------------------------
 
-You will also need a digital audio workstation (DAW) software package (see Table 2). If you are new to DAWs, you should definitely opt for [Reaper](http://reaper.fm/), which is installed on the four iMacs in the Lewis Music Library. Those who prefer to work on their own machine can get get a free two-month trial or buy the non-commercial license. Reaper runs natively on Mac OSX and Windows. There are only two situations in which Reaper might not be your tool of choice. If either one applies to you, make sure to get in touch with me, so we can find a good solution together.
+You will also need a digital audio workstation (DAW) software package (see Table 2). If you are new to DAWs, you should definitely opt for {{% resource_link "1b418a56-680a-4dcc-910a-a85e56a7996a" "Reaper" %}}, which is installed on the four iMacs in the Lewis Music Library. Those who prefer to work on their own machine can get get a free two-month trial or buy the non-commercial license. Reaper runs natively on Mac OSX and Windows. There are only two situations in which Reaper might not be your tool of choice. If either one applies to you, make sure to get in touch with me, so we can find a good solution together.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -390,7 +390,7 @@ Table 2: DAW packages suitable for use in this course
 
 _If You Run Linux_
 
-Reaper runs on Linux under [Wine](https://www.winehq.org/) in a surprisingly stable fashion, but you should thoroughly test such a setup on your own system before using it for your assignments. As an alternative, passionate tinkerers are more than welcome to use Ardour on Linux for their work. I will happily provide support for such setups, but if you want things to 'just work', I suggest you try Reaper first. (Although Ardour does run also on OS X, and to a lesser degree also on Windows, I do not recommend it. Please be in touch if you are considering such a setup.
+Reaper runs on Linux under {{% resource_link "70427905-573c-4a75-807f-a3635d4c5f6b" "Wine" %}} in a surprisingly stable fashion, but you should thoroughly test such a setup on your own system before using it for your assignments. As an alternative, passionate tinkerers are more than welcome to use Ardour on Linux for their work. I will happily provide support for such setups, but if you want things to 'just work', I suggest you try Reaper first. (Although Ardour does run also on OS X, and to a lesser degree also on Windows, I do not recommend it. Please be in touch if you are considering such a setup.
 
 _If You Already Have a DAW_
 
