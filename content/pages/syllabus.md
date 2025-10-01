@@ -45,15 +45,15 @@ You must have reliable access to additional audio editing hardware and software 
 
 Purchase of these books is not mandatory, but if you intend to pursue your interest in music technology beyond this course, they should serve you as useful references for years to come.
 
-Rayburn, Ray A. *Eargle’s Microphone Book: From Mono to Stereo to Surround, A Guide to Microphone Design and Application*. 3rd ed. Focal Press. 2011. ISBN: 9780240820750. \[Preview with [Google Books](http://books.google.com/books?id=8jNMkIvgEqEC&pg=PAfrontcover)\]
+Rayburn, Ray A. *Eargle’s Microphone Book: From Mono to Stereo to Surround, A Guide to Microphone Design and Application*. 3rd ed. Focal Press. 2011. ISBN: 9780240820750. \[Preview with {{% resource_link "a6ab9815-88e2-41cc-aadc-450876738253" "Google Books" %}}\]
 
 Senior, Mike. *Recording Secrets for the Small Studio.* Routledge. 2014. ISBN: 9780415716703.
 
-Izhaki, Roey. *Mixing Audio: Concepts, Practices and Tools*. 2nd ed. Focal Press. 2011. ISBN: 9780240522227. \[Preview with [Google Books](http://books.google.com/books?id=f-Rz8c73xh4C&pg=PAfrontcover)\]
+Izhaki, Roey. *Mixing Audio: Concepts, Practices and Tools*. 2nd ed. Focal Press. 2011. ISBN: 9780240522227. \[Preview with {{% resource_link "7a85a7c0-8483-4520-85a2-19b2accbcac2" "Google Books" %}}\]
 
-- Accompanying [sound examples](https://www.taylorfrancis.com/books/mono/10.4324/9781003303077/mixing-audio-roey-izhaki?context=ubx&refId=fb73d8e1-c793-40d4-88a5-3ef8d2d18db6)
+- Accompanying {{% resource_link "c83782fe-7ed5-4662-9fc2-5219b9c315b6" "sound examples" %}}
 
-Senior, Mike. *Mixing Secrets for the Small Studio*. Routledge. 2011. ISBN: 9780240815800. \[Preview with [Google Books](http://books.google.com/books?id=69ssLE3UwD8C&pg=PAfrontcover)\]
+Senior, Mike. *Mixing Secrets for the Small Studio*. Routledge. 2011. ISBN: 9780240815800. \[Preview with {{% resource_link "e8e679c3-c271-46ce-9c54-ecf0ac8b5234" "Google Books" %}}\]
 
 Katz, Bob. *Mastering Audio: The Art and the Science*. 3rd ed. Focal Press. 2014. ISBN: 9780240818962.
 
@@ -130,7 +130,7 @@ F
 - You can help me make the grading process much more efficient by sticking closely to the submission guidelines given in each assignment's instructions: for instance, a .zip containing files whose names strictly follow the guideline.
 - You need to complete all assignments and quizzes in order to pass this course, and you are expected to submit all assignments on time. Late submissions will initially incur a penalty of one letter grade per 24 hours. Repeat offenders will eventually receive zero scores until the situation improves.
 - Your responses to reading assignments will be checked for completeness, but they will not be graded. All other assignments will receive letter grades (without + and − modifiers) per the table above. This grading scheme also applies to your final grade for the course, except that your internal grade report might include a + or − modifier with an A, B, or C letter grade. Corrected quizzes will be returned with the numeric score in addition to the letter grade.
-- Grading will be conducted in accordance with [MIT Academic Procedures and Institute Regulations](http://catalog.mit.edu/mit/procedures/academic-performance-grades/#gradestext).
+- Grading will be conducted in accordance with {{% resource_link "e3e0cd9e-bb1e-4aee-aac4-8c8a874f5787" "MIT Academic Procedures and Institute Regulations" %}}.
 - There is no final exam for this course.
 
 ## Workload
